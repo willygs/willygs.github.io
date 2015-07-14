@@ -1,0 +1,54 @@
+body { 
+  background: url(../img/bg1.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  font-family:'Poiret One';
+  margin:70px 0px;
+}
+.container{
+	background:#df5249;
+}
+.kiri{
+	padding:40px;
+	color:#fff;
+	border-right:10px solid #e26959;
+}
+.kiri h1{
+	font-size:5em;
+	margin:0;
+}
+.kiri .img-circle{
+	border:10px solid #e26959;
+}
+.kiri .glyphicon{
+	background:#fff;
+	padding:7px;
+	border-radius:50px;
+	color:#df5249;
+	font-size:1em;
+	margin-right:20px;
+}
+.kanan{
+	background:#fff;
+	padding-right:60px;
+	padding-bottom:60px;
+	
+	
+}
+.kanan h1.judul{
+	margin-left:40px;
+	margin-top:60px;
+	border-bottom:2px dotted #cecece;
+}
+.kanan ul li{
+	color:#000;
+	font-weight:bold;
+	padding: 2px 0px;
+	font-size:1.1em;
+}
+.kanan ul li b{
+	color:#df5249;
+	
+}
